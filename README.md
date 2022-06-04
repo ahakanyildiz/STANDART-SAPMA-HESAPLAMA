@@ -2,7 +2,7 @@
 Girilen verilerin aritmetik ortalamasını,varyanslarını ve nihayetinde standart sapmasını alan algoritma.
 
 
-<code>
+
 public void standartsapma()
 {
     Console.WriteLine("Kişi sayısını giriniz..");
@@ -42,4 +42,4 @@ public void standartsapma()
 }
 
 standartsapma();
-</code>
+
