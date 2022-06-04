@@ -1,9 +1,9 @@
 # STANDART-SAPMA-HESAPLAMA
-Girilen verilerin aritmetik ortalamasını,varyanslarını ve nihayetinde standart sapmasını alan algoritma
+Girilen verilerin aritmetik ortalamasını,varyanslarını ve nihayetinde standart sapmasını alan algoritma.
 
 
-{% filename %}
-void standartsapma()
+<code>
+public void standartsapma()
 {
     Console.WriteLine("Kişi sayısını giriniz..");
     string uye = Console.ReadLine();
@@ -42,4 +42,4 @@ void standartsapma()
 }
 
 standartsapma();
-{% endfilename %}
+</code>
