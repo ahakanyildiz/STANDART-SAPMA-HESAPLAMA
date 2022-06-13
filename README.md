@@ -3,7 +3,7 @@ Girilen verilerin aritmetik ortalamasını,varyanslarını ve nihayetinde standa
 
 
 
-public void standartsapma()
+public void standartsapma() 
 {
     Console.WriteLine("Kişi sayısını giriniz..");
     string uye = Console.ReadLine();
