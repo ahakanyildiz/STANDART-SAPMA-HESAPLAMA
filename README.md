@@ -5,7 +5,7 @@ Girilen verilerin aritmetik ortalamasını,varyanslarını ve nihayetinde standa
 <code>
 public void standartsapma() 
 {
-    Console.WriteLine("Kişi sayısını giriniz..");
+    Console.WriteLine("Kaç adet veri girilecek..");
     string uye = Console.ReadLine();
     int toplam = 0;
     double ortalama = 0;
